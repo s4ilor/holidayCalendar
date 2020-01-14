@@ -1,0 +1,6 @@
+module Pods_AMS_helloworld {
+  umbrella header "Pods-AMS_helloworld-umbrella.h"
+
+  export *
+  module * { export * }
+}
